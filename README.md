@@ -32,8 +32,6 @@ Software  Requirement:
 - Matlab
 - PCB Design Software
 
---
-
 ## 🔬 Methodology
 
 1. Design initial single-band notch filter using microstrip layout.

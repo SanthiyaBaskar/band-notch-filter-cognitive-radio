@@ -42,6 +42,15 @@ Software  Requirement:
 
 ---
 
+## 📂 Files Included
+
+| File | Description |
+|------|-------------|
+| [PPT.pptx](./PPT.pptx) | Final project presentation slides |
+| [Project-Report.pdf](./Project-Report.pdf) | Complete project documentation (final report) |
+
+---
+
 ## 📈 Key Results
 
 - To attain reconfigurability
